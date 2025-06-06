@@ -3,7 +3,7 @@ Check Domain
 
 | CI / CD | Status |
 | ------- | ------ |
-| NPM | [![npm version](https://badge.fury.io/js/%40sineverba%2Ffeedback.svg)](https://badge.fury.io/js/%40sineverba%2Ffeedback) |
+| NPM | [![npm version](https://badge.fury.io/js/%40sineverba%2Fcheck%45domain.svg)](https://badge.fury.io/js/%40sineverba%2Fcheck%45domain) |
 | Semaphore CI | [![Build Status](https://sineverba.semaphoreci.com/badges/npm-pkg-check-domain/branches/master.svg?style=shields&key=819e4483-6854-48be-91cb-602b609f6b5e)](https://sineverba.semaphoreci.com/projects/npm-pkg-check-domain) |
 | Circle CI | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/sineverba/npm-pkg-check-domain/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sineverba/npm-pkg-check-domain/tree/master) |
 | Coverall | [![Coverage Status](https://coveralls.io/repos/github/sineverba/npm-pkg-check-domain/badge.svg?branch=master)](https://coveralls.io/github/sineverba/npm-pkg-check-domain?branch=master) |
