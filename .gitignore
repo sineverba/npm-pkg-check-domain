@@ -1,0 +1,5 @@
+.scannerwork/
+.test_report/
+coverage/
+node_modules/
+dist/

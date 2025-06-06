@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true,
+    "target": "es2015",
+    "types": [
+      "@testing-library/jest-dom"
+    ]
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist", "coverage", "**/*.test.tsx", "**/*.test.ts"]
+}
